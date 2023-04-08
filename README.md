@@ -1,7 +1,10 @@
 ### Hello! My name is Davi Nascimento, welcome to my account! 🖥
 
 <div style="display: inline_block">
-  
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
 <div align="center">  
