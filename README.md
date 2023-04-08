@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davi+Nascimento;I'm+16+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davin4sciment0&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=836FFF&text_color=c9d1d9&bg_color=21272e" alt="Davi Nascimento github stats" /> 
