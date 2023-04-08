@@ -1,6 +1,11 @@
-### Hello! My name is Davi Nascimento, i'm 16 years old and i'm a web developer 🖥
+### Hello! My name is Davi Nascimento, welcome to my account! 🖥
+
+<div style="display: inline_block">
+  
+</div>
 
 <div align="center">  
+  <a href="https://github.com/davin4sciment0">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davin4sciment0&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=836FFF&text_color=c9d1d9&bg_color=21272e" alt="Davi Nascimento github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davin4sciment0&layout=compact&hide_border=true&title_color=836FFF&text_color=00bfbf&bg_color=21272e" />
 </div>
